@@ -1,0 +1,115 @@
+{
+    "threshold_pct": 15,
+    "eurusd_rate": 1.0666,
+    "companies": [
+        {
+            "company": "Aurora Logistics Pvt Ltd",
+            "currency": "USD",
+            "q3_fair_value": 24600000.0,
+            "q4_fair_value": 25700000.0,
+            "change_pct": 4.471544715447155,
+            "q3_method": "Market multiples",
+            "q4_method": "Market multiples",
+            "flags": [],
+            "reason": "No anomaly detected"
+        },
+        {
+            "company": "Bluetarn Software Inc",
+            "currency": "USD",
+            "q3_fair_value": 31200000.0,
+            "q4_fair_value": 42900000.0,
+            "change_pct": 37.5,
+            "q3_method": "Discounted cash flow",
+            "q4_method": "Discounted cash flow",
+            "flags": [
+                "R1"
+            ],
+            "reason": "Fair value changed materially by 37.50%"
+        },
+        {
+            "company": "Cedar Health Holdings",
+            "currency": "USD",
+            "q3_fair_value": 14100000.0,
+            "q4_fair_value": 9600000.0,
+            "change_pct": -31.914893617021278,
+            "q3_method": "Market multiples",
+            "q4_method": "Market multiples",
+            "flags": [
+                "R1"
+            ],
+            "reason": "Fair value changed materially by -31.91%"
+        },
+        {
+            "company": "Delta Agritech Ltd",
+            "currency": "USD",
+            "q3_fair_value": 11800000.0,
+            "q4_fair_value": 12150000.0,
+            "change_pct": 2.9661016949152543,
+            "q3_method": "Recent transaction",
+            "q4_method": "Market multiples",
+            "flags": [
+                "R2"
+            ],
+            "reason": "Valuation method changed"
+        },
+        {
+            "company": "Ember Retail GmbH",
+            "currency": "EUR",
+            "q3_fair_value": 13500000.0,
+            "q4_fair_value": 13100000.0,
+            "change_pct": -2.962962962962963,
+            "q3_method": "Market multiples",
+            "q4_method": "Market multiples",
+            "flags": [],
+            "reason": "No anomaly detected"
+        },
+        {
+            "company": "Fjord Payments AS",
+            "currency": "USD",
+            "q3_fair_value": 27500000.0,
+            "q4_fair_value": null,
+            "change_pct": null,
+            "q3_method": "Discounted cash flow",
+            "q4_method": null,
+            "flags": [],
+            "reason": "Sold during Q4; excluded from Q4 holdings"
+        },
+        {
+            "company": "Granite Energy Corp",
+            "currency": "USD",
+            "q3_fair_value": 16400000.0,
+            "q4_fair_value": 16900000.0,
+            "change_pct": 3.048780487804878,
+            "q3_method": "Market multiples",
+            "q4_method": "Market multiples",
+            "flags": [],
+            "reason": "No anomaly detected"
+        },
+        {
+            "company": "Harbor Analytics Inc",
+            "currency": "USD",
+            "q3_fair_value": 9200000.0,
+            "q4_fair_value": 10840000.0,
+            "change_pct": 17.82608695652174,
+            "q3_method": "Recent transaction",
+            "q4_method": "Recent transaction",
+            "flags": [
+                "R1"
+            ],
+            "reason": "Fair value changed materially by 17.83%"
+        },
+        {
+            "company": "Ionmere Materials Ltd",
+            "currency": "USD",
+            "q3_fair_value": null,
+            "q4_fair_value": 14000000.0,
+            "change_pct": null,
+            "q3_method": null,
+            "q4_method": null,
+            "flags": [
+                "R3"
+            ],
+            "reason": "No Q4 mark; carried at recent purchase cost"
+        }
+    ]
+}

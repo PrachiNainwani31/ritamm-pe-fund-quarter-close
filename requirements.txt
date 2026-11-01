@@ -1,0 +1,10 @@
+pdfplumber
+pandas
+openpyxl
+fastapi
+uvicorn
+httpx
+openai
+python-dotenv
+pydantic
+pytest
